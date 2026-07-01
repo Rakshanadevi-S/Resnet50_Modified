@@ -2,7 +2,7 @@
 
 A deep learning project that classifies lung histopathology images into multiple cancer categories using a modified ResNet50 architecture with transfer learning. The project focuses on improving feature representation through customized classification layers and advanced preprocessing techniques.
 
----
+
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ This project implements an end-to-end deep learning pipeline for multiclass lung
 
 The pipeline includes stain normalization, image augmentation, transfer learning, model fine-tuning, and comprehensive performance evaluation.
 
----
+
 
 ## Key Features
 
@@ -22,19 +22,19 @@ The pipeline includes stain normalization, image augmentation, transfer learning
 - Comprehensive Model Evaluation
 - End-to-End Deep Learning Pipeline
 
----
+
 
 ## Dataset
-
+The dataset used is : LC25000
 The model is trained to classify histopathology images into the following classes:
 
 - Lung Adenocarcinoma (Lung ACA)
 - Lung Squamous Cell Carcinoma (Lung SCC)
 - Normal Lung Tissue
 
-> **Note:** The dataset is not included in this repository due to licensing restrictions.
 
----
+
+
 
 ## Technologies Used
 
@@ -61,7 +61,7 @@ The model is trained to classify histopathology images into the following classe
 ### Development Environment
 - Google Colab
 
----
+
 
 ## Workflow
 
@@ -75,7 +75,7 @@ The model is trained to classify histopathology images into the following classe
 8. Fine-Tuning
 9. Performance Evaluation
 
----
+
 
 ## Evaluation Metrics
 
